@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    
+}
+.name{
+    text-align: center;
+}
+.email{
+    text-align: center;
+}
+.mobile{
+    text-align: center;
+}
+.linkedin{
+    text-align: center;
+}
+.mainContent{
+ margin-top: 100px;
+ margin-left: 200px;
+ width: 1000px;
+}
+.educ{
+    text-align: left;
+}
+.work{
+    text-align: left;
+}
